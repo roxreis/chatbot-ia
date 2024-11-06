@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_community
+langchain-groq
+langgraph
+numpy
+sentence-transformers
+qdrant-client
+python-dotenv
+groq
