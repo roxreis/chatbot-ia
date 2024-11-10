@@ -5,7 +5,7 @@ from qdrant_client.models import Distance, VectorParams
 class VectorDatabase:
     def __init__(self):
         self.client = QdrantClient("qdrant", port=6333)
-        self.collection_name = "chatbot_knowledge"
+        self.collection_name = "chatbot_memory"
         self._create_collection_if_not_exists()
 
     def _create_collection_if_not_exists(self):
