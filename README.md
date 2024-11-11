@@ -10,7 +10,7 @@ Chatbot interativo
 - [Uso](#uso)
 
 ## Instalação
-1 - Clone o projeto para sua máquina
+1 - Clone o projeto para sua máquina.
 
 ```bash
 git clone https://github.com/roxreis/chatbot-ia.git
@@ -23,7 +23,7 @@ git clone https://github.com/roxreis/chatbot-ia.git
 
 GROQ_API_KEY=sua_chave_api
 
-4 - Por último faça o build do projeto
+4 - Por último faça o build do projeto.
 
 ```bash
 cd chatbot-ia
