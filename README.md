@@ -37,4 +37,6 @@ http://localhost:8501/
 Acesso ao Database Qdrant client:
 http://localhost:6333/dashboard
 
+> **Nota**: A funcionalidade para checagem de falsas correções ainda não foi desenvolvida.
+
 
