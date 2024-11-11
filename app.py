@@ -1,7 +1,7 @@
 import streamlit as st
 from chatbot.bot import Chatbot
 
-st.title("Chatbot Interativo")
+st.title("MY FRIEND BOT!")
 
 chatbot = Chatbot()
 
